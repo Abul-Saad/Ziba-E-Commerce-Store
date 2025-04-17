@@ -1,30 +1,30 @@
-# 🛍️ Ziba E-Commerce Website
+# 🛍️ Ziba E-Commerce API-Driven Website
 
-A clean and modern e-commerce platform featuring a stunning homepage, hero section, responsive layout, category-based product display, and detailed product views. Built with **Laravel**, **HTML**, **CSS**, **Bootstrap**, and **MySQL**.
+A modern, API-powered Laravel e-commerce website for showcasing products, categories, and product details. Built with **Laravel**, **RESTful API routes**, **HTML**, **CSS**, **Bootstrap**, and **MySQL**.
 
 ---
 
 ## 🚀 Features
 
-- 🏠 **Home Page** with Hero Banner
-- 🧭 **Navigation Header & Footer**
-- 🛒 **Product Categories** Section
-- 📦 **Product Details Page**
-- 📱 Responsive Design (Bootstrap)
+- 🏠 **Home Page** with dynamic content from API
+- 📦 **Product & Category APIs**
+- 🧭 Header & Footer with smooth navigation
+- 📱 Fully Responsive UI (Bootstrap)
+- ⚙️ Backend API routes for product management
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Technologies Used
 
-| Layer       | Technology         |
-|-------------|--------------------|
-| Backend     | Laravel (PHP)      |
-| Frontend    | HTML, CSS, Bootstrap |
-| Database    | MySQL              |
-| ORM         | Eloquent (Laravel) |
-| Templating  | Blade              |
+| Layer       | Tech Stack            |
+|-------------|------------------------|
+| Backend     | Laravel (REST API)     |
+| Frontend    | HTML, CSS, Bootstrap   |
+| API         | Laravel API Routes     |
+| Database    | MySQL                  |
+| ORM         | Eloquent               |
 
 ---
 
-## 📁 Project Structure
+## 📁 Folder Structure
 
